@@ -4,3 +4,4 @@ My resume is in the files above
 2. https://main--gifsearchditsmon.netlify.app/ - Simple gifs search
 3. https://main--calendartododitsmon.netlify.app/ - Calendar to do list. (In progress)
 4. https://worldseatempditsmon.netlify.app/ - World Sea Temperature Map
+6. https://github.com/DimaPidko/Notes-app - Next.JS app (Notes)
