@@ -6,3 +6,4 @@ My resume is in the files above
 4. https://worldseatempditsmon.netlify.app/ - World Sea Temperature Map
 6. https://github.com/DimaPidko/Notes-app - Next.JS app (Notes)
 7. https://github.com/DimaPidko/WeatherApp - Weather app
+8. https://github.com/DimaPidko/chatter - Chat app (In progress)
